@@ -1,3 +1,4 @@
+track type=wig name=MUT_prof description="Dnmt3L-/+ 8.5dpc embryo methylation profile" visibility=full priority=102.1 viewLimits=0:3 maxHeightPixels=100:100:11 autoScale=off windowingFunction=mean smoothingWindow=16
 chr2	157379636	157379654	0.56
 chr2	157379654	157379690	0.53
 chr2	157379690	157379746	0.5
