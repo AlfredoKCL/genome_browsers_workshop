@@ -1,3 +1,4 @@
+track type=wig name=WT_prof description="WT 8.5dpc embryo methylation profile" visibility=full priority=100.1 viewLimits=0:3 maxHeightPixels=100:100:11 autoScale=off windowingFunction=mean smoothingWindow=16
 chr2	157379666	157379676	0.19
 chr2	157379676	157379682	0.21
 chr2	157379682	157379765	0.19
